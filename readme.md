@@ -18,3 +18,4 @@ This is a simple text editor application built using Python's `tkinter` and `Pil
 ### Double click notepad.exe and Enjoy Notepad
 
 
+
